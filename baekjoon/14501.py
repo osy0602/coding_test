@@ -3,7 +3,7 @@ import sys
 input = sys.stdin.readline
 
 N = int(input().strip())
-schedule = [] # 상담기간, 비용
+schedule = []
 for i in range(N):
     schedule.append(list(map(int, input().split())))
 
@@ -14,4 +14,4 @@ for i in range(N):
         if dp[j] < dp[i] + schedule[i][1]:
             dp[j] = dp[i] + schedule[i][1]
 
-print(dp)
+print(max(dp))
