@@ -139,3 +139,7 @@
 💻 [5215] 햄버거 다이어트 <br>
 💻 [4837] 부분집합의 합 <br>
 💻 [1249] 보급로 <br>
+
+## LeetCode
+💻 [1] Two Sum <br>
+💻 [2] Add Two Numbers <br>
