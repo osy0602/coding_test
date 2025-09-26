@@ -149,3 +149,4 @@
 💻 [9] Palindrome Number <br>
 💻 [21] Merge Two Sorted Lists <br>
 💻 [2618] Check if Object Instance of Class <br>
+💻 [169] Majority Element <br>
