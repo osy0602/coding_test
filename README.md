@@ -150,3 +150,4 @@
 💻 [21] Merge Two Sorted Lists <br>
 💻 [2618] Check if Object Instance of Class <br>
 💻 [169] Majority Element <br>
+💻 [812] Largest Triangle Area <br>
