@@ -151,3 +151,4 @@
 💻 [2618] Check if Object Instance of Class <br>
 💻 [169] Majority Element <br>
 💻 [812] Largest Triangle Area <br>
+💻 [2626] Array Reduce Transformation <br>
