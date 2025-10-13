@@ -165,3 +165,5 @@
 💻 [53] Maximum Subarray <br>
 💻 [12] Integer to Roman <br>
 💻 [7] Reverse Integer <br>
+💻 [94] Binary Tree Inorder Traversal <br>
+💻 [27] Remove Element <br>
