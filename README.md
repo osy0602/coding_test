@@ -173,3 +173,4 @@
 💻 [189] Rotate Array <br>
 💻 [2704] To Be Or Not To Be <br>
 💻 [69] Sqrt(x) <br>
+💻 [1051] Height Checker <br>
