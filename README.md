@@ -178,3 +178,4 @@
 💻 [150] Best Time to But and Sell Stock <br>
 💻 [125] Valid Palindrome <br>
 💻 [392] Is Subsequence <br>
+💻 [383] Ransom Note <br>
