@@ -181,3 +181,4 @@
 💻 [383] Ransom Note <br>
 💻 [205] Isomorphic Strings <br>
 💻 [228] Summary Ranges <br>
+💻 [290] Word Pattern <br>
