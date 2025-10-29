@@ -182,3 +182,4 @@
 💻 [205] Isomorphic Strings <br>
 💻 [228] Summary Ranges <br>
 💻 [290] Word Pattern <br>
+💻 [58] Length of Last Word <br>
