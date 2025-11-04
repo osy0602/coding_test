@@ -188,3 +188,4 @@
 💻 [36] Valid Sudoku <br>
 💻 [20] Valid Parentheses <br>
 💻 [28] Find the Index of the First Occurrence in a String <br>
+💻 [242] Valid Anagram <br>
