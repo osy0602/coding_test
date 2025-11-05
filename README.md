@@ -189,3 +189,4 @@
 💻 [20] Valid Parentheses <br>
 💻 [28] Find the Index of the First Occurrence in a String <br>
 💻 [242] Valid Anagram <br>
+💻 [55] Jump Game <br>
