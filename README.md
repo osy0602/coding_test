@@ -190,3 +190,4 @@
 💻 [28] Find the Index of the First Occurrence in a String <br>
 💻 [242] Valid Anagram <br>
 💻 [55] Jump Game <br>
+💻 [71] Simplify Path <br>
