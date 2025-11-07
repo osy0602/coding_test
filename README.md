@@ -191,3 +191,4 @@
 💻 [242] Valid Anagram <br>
 💻 [55] Jump Game <br>
 💻 [71] Simplify Path <br>
+💻 [48] Rotate Image <br>
