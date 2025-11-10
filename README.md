@@ -193,3 +193,4 @@
 💻 [71] Simplify Path <br>
 💻 [48] Rotate Image <br>
 💻 [202] Happy Number <br>
+💻 [530] Minimum Absolute Difference in BST <br>
