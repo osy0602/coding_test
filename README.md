@@ -194,3 +194,4 @@
 💻 [48] Rotate Image <br>
 💻 [202] Happy Number <br>
 💻 [530] Minimum Absolute Difference in BST <br>
+💻 [67] Add Binary <br>
