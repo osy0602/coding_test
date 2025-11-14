@@ -196,3 +196,4 @@
 💻 [530] Minimum Absolute Difference in BST <br>
 💻 [67] Add Binary <br>
 💻 [141] Linked List Cycle <br>
+💻 [66] Plus One <br>
