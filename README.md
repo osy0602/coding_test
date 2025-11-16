@@ -198,3 +198,4 @@
 💻 [141] Linked List Cycle <br>
 💻 [66] Plus One <br>
 💻 [561] Array Partition <br>
+💻 [118] Pascal's Triangle <br>
