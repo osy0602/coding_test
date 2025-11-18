@@ -200,3 +200,4 @@
 💻 [561] Array Partition <br>
 💻 [118] Pascal's Triangle <br>
 💻 [73] Set Matrix Zeroes <br>
+💻 [35] Search Insert Position <br>
