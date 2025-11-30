@@ -211,3 +211,4 @@
 💻 [509] Fibonacci Number <br>
 💻 [263] Ugly Number <br>
 💻 [345] Reverse Vowels of a String <br>
+💻 [136] Single Number <br>
