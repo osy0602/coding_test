@@ -219,4 +219,5 @@
 💻 [1071] Greatest Common Divisor of Strings <br>
 💻 [46] Permutations <br>
 💻 [112] Path Sum <br>
-💻 [764] Min Cost Climbing Stairs<br>
+💻 [764] Min Cost Climbing Stairs <br>
+💻 [6] Zigzag Conversation <br>
