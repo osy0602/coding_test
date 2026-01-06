@@ -225,3 +225,4 @@
 💻 [62] Unique Paths <br>
 💻 [274] H-Index <br>
 💻 [217] Contains Duplicate <br>
+💻 [506] Relative Ranks <br>
