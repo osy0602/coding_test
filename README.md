@@ -226,3 +226,4 @@
 💻 [274] H-Index <br>
 💻 [217] Contains Duplicate <br>
 💻 [506] Relative Ranks <br>
+💻 [89] Gray Code <br>
