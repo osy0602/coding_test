@@ -227,3 +227,4 @@
 💻 [217] Contains Duplicate <br>
 💻 [506] Relative Ranks <br>
 💻 [89] Gray Code <br>
+💻 [64] Minimum Path Sum <br>
