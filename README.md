@@ -228,3 +228,4 @@
 💻 [506] Relative Ranks <br>
 💻 [89] Gray Code <br>
 💻 [64] Minimum Path Sum <br>
+💻 [38] Count and Say <br>
