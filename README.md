@@ -233,3 +233,4 @@
 💻 [34] Find First and Last Position of Element in Sorted Array<br>
 💻 [72] Edit Distance<br>
 💻 [168] Excel Sheet Column Title<br>
+💻 [492] Construct the Rectangle<br>
