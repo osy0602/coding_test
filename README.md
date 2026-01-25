@@ -243,3 +243,4 @@
 💻 [151] Reverse Words in a String<br>
 💻 [231] Power of Two<br>
 💻 [238] Product of Array Except Self<br>
+💻 [56] Merge Intervals<br>
