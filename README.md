@@ -264,3 +264,4 @@
 💻 [448] Find All Numbers Disappeared in an Array<br>
 💻 [1046] Last Stone Weight<br>
 💻 [412] Fizz Buzz<br>
+💻 [507] Perfect Number<br>
