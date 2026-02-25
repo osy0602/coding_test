@@ -273,3 +273,4 @@
 💻 [415] Add Strings<br>
 💻 [463] Island Perimeter<br>
 💻 [657] Robot Return to Origin<br>
+💻 [661] Image Smoother<br>
