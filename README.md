@@ -276,3 +276,4 @@
 💻 [661] Image Smoother<br>
 💻 [459] Repeated Substring Pattern<br>
 💻 [1668] Maximum Repeating Substring<br>
+💻 [500] Keyboard Row<br>
