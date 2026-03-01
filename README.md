@@ -277,3 +277,4 @@
 💻 [459] Repeated Substring Pattern<br>
 💻 [1668] Maximum Repeating Substring<br>
 💻 [500] Keyboard Row<br>
+💻 [496] Next Greater Element I<br>
