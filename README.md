@@ -278,3 +278,4 @@
 💻 [1668] Maximum Repeating Substring<br>
 💻 [500] Keyboard Row<br>
 💻 [496] Next Greater Element I<br>
+💻 [405] Convert a Number to Hexadecimal<br>
