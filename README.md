@@ -284,3 +284,4 @@
 💻 [645] Set Mismatch<br>
 💻 [342] Power of Four<br>
 💻 [728] Self Dividing Numbers<br>
+💻 [2900] Longest Unequal Adjacent Groups Subsequence I<br>
