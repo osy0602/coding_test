@@ -290,3 +290,4 @@
 💻 [374] Guess Number Higher or Lower<br>
 💻 [441] Arranging Coins<br>
 💻 [520] Detect Capital<br>
+💻 [404] Sum of Left Leaves<br>
