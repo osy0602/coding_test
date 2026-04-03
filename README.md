@@ -304,3 +304,4 @@
 💻 [31] Next Permutation<br>
 💻 [54] Spiral Matrix<br>
 💻 [191] Number of 1 Bits<br>
+💻 [86] Partition List<br>
