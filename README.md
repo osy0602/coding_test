@@ -305,3 +305,4 @@
 💻 [54] Spiral Matrix<br>
 💻 [191] Number of 1 Bits<br>
 💻 [86] Partition List<br>
+💻 [594] Longest Harmonious Subsequence<br>
